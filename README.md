@@ -1,10 +1,12 @@
 Python Daily Workout Challenge 2025
 
 Welcome to my Python Daily Workout Challenge repository! 🚀
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 About the Challenge
 
 This year, I have committed to practicing and uploading my Python coding exercises daily. The goal is to strengthen my programming skills, explore different concepts, and stay consistent with hands-on learning. This repository will serve as a log of my progress throughout 2025.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 What to Expect
 
@@ -17,6 +19,7 @@ What to Expect
 ✨ Code Improvements: Revisiting and refining solutions for optimal performance.
 
 💡 Learnings and Insights: Key takeaways from each challenge.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Structure
 
@@ -25,6 +28,7 @@ Day_1, Day_2, Day_3, ... folders with Python scripts for each day's challenge.
 README.md updates with brief summaries of challenges and reflections.
 
 Additional resources, references, and notes where applicable.
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Why This Challenge?
 
@@ -35,6 +39,7 @@ Practice clean and efficient coding
 Build a strong foundation in Python
 
 Stay consistent with coding practice
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Connect with Me
 
