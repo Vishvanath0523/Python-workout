@@ -23,8 +23,6 @@ ________________________________________________________________________________
 
 Structure
 
-Day_1, Day_2, Day_3, ... folders with Python scripts for each day's challenge.
-
 README.md updates with brief summaries of challenges and reflections.
 
 Additional resources, references, and notes where applicable.
