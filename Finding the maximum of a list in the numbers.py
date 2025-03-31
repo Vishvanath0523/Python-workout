@@ -1,4 +1,4 @@
-#List of numbers
+#List of numbers should be intialized
 a=[25,9,55,12,5]
 #Initialize max variable to store the maximum numbers
 max=0
