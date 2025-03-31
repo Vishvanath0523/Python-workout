@@ -8,4 +8,5 @@ def power(base,exp):
 #Taking input from the user for the base and exponent
 base=int(input("Enter base:"))
 exp=int(input("Enter the exponential value:"))
+#Calling the power function and printing the result.
 print("Result:", power(base,exp))
